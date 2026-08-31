@@ -1,10 +1,10 @@
 /* --- VARIÁVEIS REUTILIZÁVEIS --- */
 :root {
-  --cor-fundo: #f4f4f9;
-  --cor-card: #ffffff;
-  --cor-primaria: #2563eb;
-  --cor-destaque: #ef4444;
-  --cor-texto: #1f2937;
+  --cor-fundo: #96969b;
+  --cor-card: #f1eaea;
+  --cor-primaria: #f5adc5;
+  --cor-destaque: #da76b0;
+  --cor-texto: #01060e;
   --sombra: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
